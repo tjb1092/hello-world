@@ -12,7 +12,8 @@ using namespace std;
 
 int main()
 {
-	cout << "hotfixin away + more things to make it conflixt!!" << endl:
+
+	cout << "hotn away + more things to make it conflixt!!" << endl:
 	cout << "Hello World + some considerate extra comments";
 	cout << "extra super important stuff.";
 	return 0;
