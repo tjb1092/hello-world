@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-	cout << "hotfixin away!!" << endl:
+	cout << "hotn away!!" << endl:
 	cout << "Hello World + some considerate extra comments";
 	cout << "extra super important stuff.";
 	return 0;
